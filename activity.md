@@ -1,5 +1,3 @@
-#2015年会小品剧本
-
 #activity的生命周期
 
 1. onCreate()方法 Activity完整生存周期开始时调用
